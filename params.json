@@ -1,0 +1,6 @@
+{
+  "name": "Myreact",
+  "tagline": "My first react redux thingy. It felt good while making it work. It has least possible content for easy understanding, and a kind of boilerplate to move things here and there and start from it.",
+  "body": "### MyReact\r\nThis is my implementation of React.js. I wanted to do this, because I learned how to do it, and I figured I could help someone learn React and Redux in a best possible way I could, though I am a beginner.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
